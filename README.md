@@ -20,3 +20,6 @@ The LDR senses the ambient light levels. When it gets dark, the resistance of th
 
 This circuit is energy-efficient, cost-effective, and ideal for outdoor lighting automation. It eliminates the need for manual switching, ensuring that street lights operate only when needed. In Tinkercad, users can simulate varying light conditions by adjusting the LDR values, observing how the system responds in real-time. This project demonstrates the practical application of sensors and microcontrollers in smart city infrastructure.
 
+#output : ![Image](https://github.com/user-attachments/assets/d5eb2247-cea6-4356-9156-bf8be3d721bb)
+
+
